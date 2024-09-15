@@ -44,10 +44,11 @@ class _SplashViewState extends State<SplashView> {
       ),
     );
   }
+
   void navigationFun() {
     Future.delayed(
       const Duration(seconds: 3),
-          () {
+      () {
         Navigator.pushReplacementNamed(context, HomeView.routeName);
       },
     );
