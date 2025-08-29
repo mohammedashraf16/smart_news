@@ -41,6 +41,8 @@ lib/
 ├── theme/            # Application-wide theme data.
 └── main.dart         # App entry point and route configuration.
 ```
+## Samples of implementation
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/6cdd657e-1b55-4eff-b1fa-d85230c5e65e" />
 
 ## Getting Started
 
