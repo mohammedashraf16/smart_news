@@ -11,7 +11,7 @@ Smart News is a dynamic news application built with Flutter that allows users to
 - **View Full Article**: Seamlessly open the original news article in an external browser.
 - **Clean UI**: A user-friendly interface with a custom theme and intuitive navigation.
 
-## Tech Stack & Architecture
+## 🏛️Tech Stack & Architecture
 
 - **Framework**: Flutter
 - **State Management**: BLoC (Cubit)
@@ -26,7 +26,7 @@ Smart News is a dynamic news application built with Flutter that allows users to
 
 The project follows a feature-driven architecture, separating the code into logical modules like `home`, `categories`, `search`, and `splash`. This promotes scalability and maintainability.
 
-## Project Structure
+## 🎨 Project Structure
 
 The `lib` directory is organized as follows:
 ```
